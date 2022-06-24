@@ -6,7 +6,7 @@ The following Report is what you'll have access once you open this page link: ht
 
 ![Employees X Salararies (Chicago City DB) 3](https://user-images.githubusercontent.com/87951323/174862020-97fe9f10-cd34-43b7-9a26-4b9cf1b741a9.png)
 
-The data visualization may change dynamically depending on what filters you're using in it. The Total Pay represents the annual amount of money that each job title or department in the city can make, and each profession may have it's particularities.
+The data visualization may change dynamically depending on what filters you're using in it. The Total Pay represents the annual amount of money that each job title or department in the city receives as payment, and each profession may have its particularities.
 
 The Report State can be easily shared and downloaded as a PDF file, and you can also set a password to it so that only the person who has its password will see it.
 
